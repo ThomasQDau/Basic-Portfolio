@@ -20,7 +20,7 @@ Header, Nav, Section, Aside, Footer {
 section {
     float: left;
 }
-/* Article {
+Article {
     color: #ebebeb; 
     height: 400px;
     width: 400px;
@@ -28,4 +28,4 @@ section {
 aside {
     height: 480px;
     width: 265px;
-} */
+}
