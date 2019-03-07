@@ -1,0 +1,16 @@
+* {
+
+}
+body {
+    font-family: 'Arial','Helvetica Neue',Helvetica, sans-serif;
+    color: black;
+    background: #777;
+    width: 960px;
+    font-size 18px;
+}
+Header, Nav, Section, Aside, Footer {
+    background: #ebebeb;
+}
+Article {
+    color: #ebebeb; 
+}
