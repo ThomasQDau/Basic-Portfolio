@@ -4,7 +4,6 @@
     background: #777;
     font-size: 18px;
     width: 960px;
-    height: 80px;
     padding: 15px;
     text-align: center;
     margin: 20px;
@@ -46,32 +45,32 @@ nav {
 
 .container {
     border: 5px solid #000;
-    height: 1000px;
     overflow: auto;
 }
 
 section {
     float: left;
-    height: 480px;
+    height: auto;
     width: 560px;
 }
 
 h2 {
-    width: 100%;
+    width: 80%;
 }
 
 p {
-    width: 100%;
+    width: 80%;
+    overflow: auto;
 }
 
 .article {
     background: #ffff00; 
-    height: 400px;
-    width: 400px;
+    height: auto;
+    width: 80%
 }
 
 aside {
-    height: 480px;
+    height: 100%;
     width: 265px;
     float: right;
 }
