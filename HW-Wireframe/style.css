@@ -1,0 +1,31 @@
+* {
+    font-family: 'Arial','Helvetica Neue',Helvetica, sans-serif;
+    color: black;
+    background: #777;
+    font-size: 18px;
+    width: 960px;
+    height: 80px;
+    padding: 15px;
+    text-align: center;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+Header, Nav, Section, Aside, Footer {
+    background: #ebebeb;
+}
+.thirtythree {
+    height: calc(100%/3);
+}
+section {
+    float: left;
+}
+Article {
+    color: #ebebeb; 
+    height: 400px;
+    width: 400px;
+}
+aside {
+    height: 480px;
+    width: 265px;
+}
